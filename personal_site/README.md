@@ -4,11 +4,11 @@ Folder setup
 
 ├── personal_site
 
-│   ├── index.html
+  │   ├── index.html
 
-│   ├── about.html
+  │   ├── about.html
 
-│   ├── portfolio.html
+  │   ├── portfolio.html
 
-│   ├── style.css
+  │   ├── style.css
 
