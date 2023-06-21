@@ -29,7 +29,8 @@ body {
 #beach2{
     width:200px;
     height: 100px;
-    position: fixed;
+    position: static;
+    display: block;
     margin-top: 2%;
     margin-left: 3%;
     
@@ -54,9 +55,10 @@ button:hover {
       }
 
 button {
-    padding: 14px 40px;
-    margin-left: 27%;
-    position: sticky;
+    padding: 14px 25px;
+    display: inline-block;
+    background-color: burlywood;
+    margin-left: 29%;
 }
 
 #linkedin-button {
