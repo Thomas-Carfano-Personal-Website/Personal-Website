@@ -29,7 +29,10 @@ body {
 #beach2{
     width:200px;
     height: 100px;
-    position: left;
+    position: fixed;
+    margin-top: 2%;
+    margin-left: 3%;
+    
 }
 
 #desert{
@@ -41,7 +44,7 @@ body {
 
 #myHighlight{
     margin-top: 10%;
-}
+} 
 
 
 /* Button Styling */
