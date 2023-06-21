@@ -4,10 +4,7 @@ body {
 
 #name{
     text-align: center;
-
-}
-footer {
-    color: red;
+    text-decoration: none;
 }
 
 /* Button Styling */
@@ -23,7 +20,7 @@ button {
 }
 
 #linkedin-button {
-    width: 5%;
+    width:30px;
     height: auto;
     bottom: 10px;
     position: fixed;
@@ -31,7 +28,7 @@ button {
 }
 
 #github-button {
-    width: 5%;
+    width: 30px;
     height: auto;
     bottom: 10px;
     position: fixed;
