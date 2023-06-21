@@ -1,0 +1,39 @@
+body {
+    background-color: antiquewhite;
+}
+
+#name{
+    text-align: center;
+
+}
+footer {
+    color: red;
+}
+
+/* Button Styling */
+
+button:hover {
+        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+      }
+
+button {
+    padding: 14px 40px;
+    margin-left: 27%;
+    position: sticky;
+}
+
+#linkedin-button {
+    width: 5%;
+    height: auto;
+    bottom: 10px;
+    position: fixed;
+    margin-left: 40%;
+}
+
+#github-button {
+    width: 5%;
+    height: auto;
+    bottom: 10px;
+    position: fixed;
+    margin-left: 50%;
+}
