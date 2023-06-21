@@ -20,6 +20,20 @@ body {
     padding-top: 25%;
 }
 
+#beach{
+    width:400px;
+    height: 200px;
+    position: left;
+    margin-top: 15%;
+}
+
+#desert{
+    width:400px;
+    height: 200px;
+    position: left;
+    margin-top: 15%;
+}
+
 /* Button Styling */
 
 button:hover {
