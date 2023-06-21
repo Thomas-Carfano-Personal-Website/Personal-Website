@@ -7,6 +7,19 @@ body {
     text-decoration: none;
 }
 
+#selfie{
+    width: 15%;
+    position: fixed;
+    margin-left: 75%;
+}
+#experience-description{
+    margin-top: 10%;
+}
+
+#service-titan{
+    padding-top: 25%;
+}
+
 /* Button Styling */
 
 button:hover {
