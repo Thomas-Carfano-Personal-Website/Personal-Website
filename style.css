@@ -26,6 +26,11 @@ body {
     position: left;
     margin-top: 15%;
 }
+#beach2{
+    width:200px;
+    height: 100px;
+    position: left;
+}
 
 #desert{
     width:400px;
@@ -33,6 +38,11 @@ body {
     position: left;
     margin-top: 15%;
 }
+
+#myHighlight{
+    margin-top: 10%;
+}
+
 
 /* Button Styling */
 
@@ -51,7 +61,7 @@ button {
     height: auto;
     bottom: 10px;
     position: fixed;
-    margin-left: 40%;
+    margin-left: 45%;
 }
 
 #github-button {
