@@ -10,5 +10,7 @@ Folder setup
 
   │   ├── portfolio.html
 
+  │   ├── contact.html
+
   │   ├── style.css
 
