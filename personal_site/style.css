@@ -107,3 +107,8 @@ body {
     }
   } 
 /* Media Tag END */
+
+#name:link
+{
+ color:inherit;
+}
