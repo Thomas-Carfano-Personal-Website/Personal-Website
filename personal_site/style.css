@@ -83,6 +83,13 @@ button:hover {
   }
 
 
+  #button2{
+    padding: 14px 25px;
+        display: grid;
+        white-space: nowrap;
+        background-color: burlywood;
+  }
+
 #linkedin-button {
     width:30px;
     height: auto;
